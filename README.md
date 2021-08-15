@@ -7,7 +7,7 @@ Random Oversampler Results
 ![randomOversampling](randomOversampling.png)
 
 SMOTE Oversampler Results
-![SMOTEOversampling](SMOTEOversampling.png)
+![SMOTEoversampling](SMOTEoversampling.png)
 
 Cluster Centroids Results
 ![clusterCentroids](clusterCentroids.png)
